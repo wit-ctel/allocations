@@ -1,7 +1,7 @@
 <?php 
 $servername = "localhost";
-	$username = "module";
-	$password = "moodlemodule";
+	$username = "root";
+	$password = "32ferndale";
 	$dbname = "allocations";
 	// Create connection
 	$conn = new mysqli($servername, $username, $password, $dbname);

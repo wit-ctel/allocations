@@ -18,14 +18,14 @@ $( document ).ready(function() {
 
 	$('.year').click(function(){	
 		if($(this).hasClass('btn-success')){
-			$(this).toggleClass('btn-success btn-primary');
+			$(this).toggleClass('btn-success btn-light');
 		}
 		else if($('.year').hasClass('btn-success')){
-			$('.btn-success').toggleClass('btn-success btn-primary');
-			$(this).toggleClass('btn-primary btn-success');
+			$('.btn-success').toggleClass('btn-success btn-light');
+			$(this).toggleClass('btn-light btn-success');
 		}
 		else{
-			$(this).toggleClass('btn-primary btn-success');
+			$(this).toggleClass('btn-light btn-success');
 		}
 		getModules();
 	});

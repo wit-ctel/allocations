@@ -21,12 +21,14 @@ h2{
 h4{
 	padding-left:20px;
 }
-.wrapper{
-	width: 1000px;
+h5{
+	text-transform: none;
+}
+.mast{
 	background-color: #fff;
+}
+.wrapper{	
 	position: relative;
-	padding: 20px;
-	margin-top: 20px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -62,6 +64,9 @@ h4{
 	width: 200px;
 	cursor: pointer;
 }
+.faq-btn{
+	color:#fff !important; 
+}
 .completed{
 	cursor:default !important;
 }
@@ -78,11 +83,28 @@ p {
     margin-top: 0;
     margin-bottom: 0rem;
 }
+.search{
+	width: 50%;
+	float: left;
+	margin-bottom:10px;
+	margin-top:15px;
+}
+
+.search-btn{
+	clear:both;
+}
+
+
 .year{
-	width:40px !important;
+	width:75px !important;
+	margin-bottom:15px;
 }
 .add-me{
 	width:110px !important;
+}
+.modal-open {
+    overflow: hidden;
+    padding-right: 0 !important;
 }
 .modal-header {
     display: -ms-flexbox;
@@ -100,4 +122,44 @@ p {
     position: absolute;
     top: 10px;
     right: 10px;
+}
+
+.support-hero {
+    height: 440px;
+    overflow: hidden;
+}
+.lead{
+	margin-bottom:15px;
+}
+.search-box input{
+	height:35px;
+	font-size: 15px;
+	width:400px;
+	float:left;
+	padding-left:10px;
+	color:#333;
+}
+.search-box select{
+	width:400px;
+	font-size: 15px;
+	color:#333;
+	padding-left:10px;
+	height:35px;
+	margin-bottom:15px;
+}
+
+td{
+	font-size: 18px;
+}
+[colspan] {
+    text-align: left;
+    font-weight: 600;
+}
+
+.jumbotron p{
+	margin-bottom:10px;
+}
+
+.jumbotron li{
+	margin-left:25px;
 }
