@@ -1,0 +1,179 @@
+[23-Aug-2018 10:40:19 Europe/Dublin] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'a565762_trklst'@'localhost' to database 'a565762_autoimport' in /home/a565762/pete.ie/import/modulelist.php on line 34
+[23-Aug-2018 10:41:26 Europe/Dublin] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'a565762_trklst'@'localhost' to database 'a565762_autoimport' in /home/a565762/pete.ie/import/modulelist.php on line 34
+[23-Aug-2018 10:41:27 Europe/Dublin] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'a565762_trklst'@'localhost' to database 'a565762_autoimport' in /home/a565762/pete.ie/import/modulelist.php on line 34
+[23-Aug-2018 10:41:51 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:41:51 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:41:52 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:43:35 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:43:51 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:43:52 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:45:40 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:45:55 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:46:58 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:49:55 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:05 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:31 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.UID in /home/a565762/pete.ie/import/modulelist.php on line 48
+[23-Aug-2018 10:50:41 Europe/Dublin] PHP Notice:  Undefined index: modulelist.moduletitle in /home/a565762/pete.ie/import/modulelist.php on line 51
+[23-Aug-2018 10:51:33 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:51:37 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:51:39 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:58:46 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:58:47 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:58:50 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:59:12 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 10:59:13 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:02:52 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:02:53 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:03:27 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:04:01 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:04:19 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:04:28 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:05:28 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:07:41 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:07:56 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:08:01 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:10:31 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:10:32 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:10:34 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:14:33 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:14:35 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:14:41 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:14:43 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:14:49 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:15:30 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:15:32 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:15:34 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:15:37 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:15:39 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:15:47 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:15:48 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:15:55 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:15:55 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:15:55 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:15:55 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:17:09 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:17:16 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:17:19 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:17:56 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:18:35 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:18:36 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:18:36 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:18:37 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:35:45 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:35:46 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:35:47 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:35:57 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:38:40 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:39:22 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:39:25 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:39:27 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:39:44 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:40:42 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:40:50 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:41:05 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:41:16 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:41:21 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:42:04 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:42:30 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:42:37 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:43:03 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:43:05 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:43:14 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:43:58 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:44:10 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:44:13 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:44:32 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:44:35 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:45:05 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:45:12 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:45:16 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:46:07 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:46:15 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:46:19 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:46:21 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:46:28 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:54:51 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:54:55 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:54:59 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:58:02 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:58:29 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:59:06 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:59:07 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 11:59:09 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 12:00:51 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 12:03:30 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 12:03:34 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 12:03:40 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 12:03:46 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 12:13:58 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 13:40:17 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 13:41:48 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 13:42:53 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 13:52:49 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 13:53:03 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 13:54:00 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 13:54:44 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 16:00:13 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 16:00:38 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 16:46:40 Europe/Dublin] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/a565762/pete.ie/import/modulelist.php on line 33
+[23-Aug-2018 16:46:42 Europe/Dublin] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/a565762/pete.ie/import/modulelist.php on line 33
+[23-Aug-2018 16:46:55 Europe/Dublin] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/a565762/pete.ie/import/modulelist.php on line 33
+[23-Aug-2018 16:46:56 Europe/Dublin] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/a565762/pete.ie/import/modulelist.php on line 33
+[23-Aug-2018 16:47:50 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 16:47:53 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 17:02:16 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 17:02:19 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 17:02:21 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
+[23-Aug-2018 17:02:23 Europe/Dublin] PHP Notice:  Use of undefined constant importcomplete - assumed 'importcomplete' in /home/a565762/pete.ie/import/requestimport.php on line 27
