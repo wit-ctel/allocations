@@ -4,9 +4,9 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-require '/home/pete/PHPMailer/src/Exception.php';
-require '/home/pete/PHPMailer/src/PHPMailer.php';
-require '/home/pete/PHPMailer/src/SMTP.php';
+require '/source/PHPMailer/src/Exception.php';
+require '/source/PHPMailer/src/PHPMailer.php';
+require '/source/PHPMailer/src/SMTP.php';
 
 $title = $_GET["title"];
 $crn = $_GET["crn"];
