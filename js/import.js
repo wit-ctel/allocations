@@ -1,5 +1,26 @@
 $( document ).ready(function() {
 
+	// Get the input field
+	var input = document.getElementById("module-title");
+	// Execute a function when the user releases a key on the keyboard
+	input.addEventListener("keyup", function(event) {
+	  // Number 13 is the "Enter" key on the keyboard
+	  if (event.keyCode === 13) {
+	    // Cancel the default action, if needed
+	    getModules();
+	  }
+	}); 
+	// Get the input field
+	var input = document.getElementById("prog-id");
+	// Execute a function when the user releases a key on the keyboard
+	input.addEventListener("keyup", function(event) {
+	  // Number 13 is the "Enter" key on the keyboard
+	  if (event.keyCode === 13) {
+	    // Cancel the default action, if needed
+	    getModules();
+	  }
+	}); 
+
 	//Get Depts for selected school
 	$('.school').click(function(){		
 		var school= $(this).attr('value');
@@ -99,7 +120,7 @@ function getModules(){
 		queryString += '&dept='+dept;
 	}
 	if($('.prog').val().length){
-		var prog = $('.prog').val();
+		var prog = $('.prog').val().toUpperCase();
 		queryString += '&prog='+prog;
 	}
 	var url = 'get-modules.php'+queryString;

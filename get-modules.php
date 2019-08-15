@@ -28,7 +28,7 @@
 	    $whereClause[] = "SORCMJR_DEPT_CODE = '".mysqli_real_escape_string($conn, $_GET['dept'])."'";
 	}
 	if(isset($_GET["prog"])) {
-	    $whereClause[] = "SMRPRLE_PROGRAM = '".mysqli_real_escape_string($conn, $_GET['prog'])."'";
+	    $whereClause[] = "SMRPRLE_PROGRAM = LIKE '%".mysqli_real_escape_string($conn, $_GET['prog'])."%'";
 	}
 
 	if ( sizeof($whereClause) > 1 ) {

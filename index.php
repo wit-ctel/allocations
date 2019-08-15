@@ -59,10 +59,10 @@
 
 	  <div class="search-box">
 	  <div class="search search-title"> <h5>Search by Module Title: </h5>
-	  	<input class ="module-title" type="text" placeholder="(eg. Programming Fundamentals)"/>	
+	  	<input id="module-title" class ="module-title" type="text" placeholder="(eg. Programming Fundamentals)"/>	
 	  </div>
 	  <div class="search search-year""><h5>Search by Programme Code: </h5>
-	  	<input class ="prog" type="text" placeholder="(eg. WD_KCOMP_B)" />	
+	  	<input id="prog-id" class ="prog" type="text" placeholder="(eg. WD_KCOMP_B)" />	
 	  </div>
 	  
 	  	<div class="search search-dept">
@@ -275,12 +275,7 @@
 <!-- end scripts-->
 
 <!-- Change UA-XXXXX-X to be your site's ID -->
-<script>
-  window._gaq = [['_setAccount','UA-5259392-9'],['_trackPageview'],['_trackPageLoadTime']];
-  Modernizr.load({
-    load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
-  });
-</script>
+
   </body>  
 </html>
     
